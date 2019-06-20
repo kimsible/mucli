@@ -1,0 +1,16 @@
+{
+  "name": "mucli",
+  "version": "1.0.0",
+  "description": "small CLI manager for mu* APIs",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimsible/mucli.git"
+  },
+  "keywords": [
+    "cli",
+    "mu*",
+    "api"
+  ],
+  "license": "AGPL-3.0"
+}
